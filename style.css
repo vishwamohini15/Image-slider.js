@@ -41,3 +41,13 @@ body{
      background-color: rgb(239, 224, 194);
      border-radius: 50%;
 }
+
+@media screen and (max-width: 480px) {
+
+     .slider-container{
+          position: relative;
+          height: 300px;
+          width: 380px;
+          
+     }
+   }
